@@ -1,9 +1,8 @@
 
 # Parrot Security OS for Termux
 Welcome, visitors! For seamless installation of Parrot Security OS on Termux with both GUI and CLI options, head over to our main repository named "[LinuxDroid](https://github.com/AryanVBW/LinuxDroid)." Find comprehensive installation guides, documentation, and the latest updates to elevate your Android device into a powerful security and ethical hacking platform. Get started on your cybersecurity journey by visiting [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) now!
-
-
-
+# installation
+simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
 
 # Key Features:
 ## Versatility:
